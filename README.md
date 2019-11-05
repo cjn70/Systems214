@@ -24,3 +24,7 @@ Tools:
 - Debugger (e.g., gdb)
 - Memory errors (e.g., valgrind)
 - Profiling (e.g., gprof, valgrind)
+
+My Project Grades
+
+check.c 96.6/100

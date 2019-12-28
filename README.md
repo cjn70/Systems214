@@ -30,3 +30,4 @@ My Project Grades
 check.c - 96.6/100
  ,Asst1   - 100/100
  ,Asst2   - 100/100
+,DUMB    -100/100
